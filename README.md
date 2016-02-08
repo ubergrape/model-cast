@@ -52,7 +52,7 @@ instance.cached instanceof CachedModel; // true
 
 ## License
 
-  LGPLv3
+  MIT
 
   Released as free software as part of [ChatGrape](https://chatgrape.com/)
 
