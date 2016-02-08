@@ -1,6 +1,6 @@
 # Model-cast
 
-Automatically cast properties for Swatinem/model
+Automatically cast properties for ubergrape/model
 
 Works for Construction as well as for assignments.
 
@@ -10,7 +10,7 @@ Works for Construction as well as for assignments.
 
 ## Installation
 
-    $ component install Swatinem/model-cast
+    $ component install ubergrape/model-cast
 
 ## .cast(name, fn)
 
@@ -27,7 +27,7 @@ Casts to a `Date`.
 ## cast.Cache(Model)
 
 Fetches the `Model` instance according to the provided key. This is intended to
-work with [Swatinem/model-cache](https://github.com/Swatinem/model-cache).
+work with [ubergrape/model-cache](https://github.com/ubergrape/model-cache).
 
 ## Usage
 

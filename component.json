@@ -1,8 +1,8 @@
 {
   "name": "model-cast",
-  "repo": "Swatinem/model-cast",
+  "repo": "ubergrape/model-cast",
   "version": "0.0.1",
-  "description": "Automatically cast properties for Swatinem/model",
+  "description": "Automatically cast properties for ubergrape/model",
   "keywords": [],
   "main": "index.js",
   "scripts": [
